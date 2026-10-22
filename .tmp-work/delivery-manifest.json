@@ -1,0 +1,194 @@
+{
+  "3D预览检查说明.md": {
+    "bytes": 1946,
+    "sha256": "994925efca61c8eeef8917ee33429eba588f6ed8dd7a7763fdf4ead575b8b9ca"
+  },
+  "ChatGPT-PCB-Art.eprj3": {
+    "bytes": 2518,
+    "sha256": "211ba607e6817b26c6113a8d92ab12d93e788a550121f677244abc1d1bbbc963"
+  },
+  "Gerber_PCB1_2026-10-22.zip": {
+    "bytes": 28940680,
+    "sha256": "102427982257ddd3c62777991a22b82e43b93342702e8573e2f067ab1c384b23"
+  },
+  "LICENSE": {
+    "bytes": 22668,
+    "sha256": "6ace0ce4b0fc984ce96594339a082338d5d82d5934cd99bbd2459008317dc892"
+  },
+  "ProPrj_ChatGPT_2026-10-22.epro2": {
+    "bytes": 21860740,
+    "sha256": "443d682ba15262d3b522682ca67c3c8cafec9ea0067296528948c307677747e5"
+  },
+  "README.md": {
+    "bytes": 8649,
+    "sha256": "8de553fea4d21b712bc131c39bcf27da3d97f61c546aeb465c382d1db13f0447"
+  },
+  "实物制作指南.md": {
+    "bytes": 3027,
+    "sha256": "653de24e741cd2c55faa8de3e1eb6798d06f551447adff7b73bfa99de1aefc00"
+  },
+  "本轮修改说明.md": {
+    "bytes": 1732,
+    "sha256": "10de3ef560d6df7172d0956f046b3a8f767ef6fadfe6b41a8cf79f71d0b0756c"
+  },
+  "panel\\Panel1.epan2": {
+    "bytes": 294,
+    "sha256": "b3b4f128bcfc10905d8d296be9c80cd00bff4fd755fb901bc9fc17372d86eef7"
+  },
+  "pcb\\PCB1.epcb2": {
+    "bytes": 31286953,
+    "sha256": "68cb8aef118401f8a2b06a98b9c370cc7f02264c1fc5cec96fe6263f40a2bd4e"
+  },
+  "使用的文件\\ChatGPT_back_4K.jpg": {
+    "bytes": 2737618,
+    "sha256": "15b241b6cfe9d3b5dffc5ed3058ce1fa93478d4d10644c963a025fabea7fcd85"
+  },
+  "使用的文件\\ChatGPT_back_AI原生.png": {
+    "bytes": 2253484,
+    "sha256": "431f98633416455d95fa5ef437bb62cb53216a3c45c16a36e3601f61d43ffa92"
+  },
+  "使用的文件\\ChatGPT_chibi_4K.png": {
+    "bytes": 14369220,
+    "sha256": "d4f510f2a02e117685d17b038d5629d3205c6f32ba168fbbec1ae7b353ae675b"
+  },
+  "使用的文件\\ChatGPT_chibi_AI原生.png": {
+    "bytes": 1890302,
+    "sha256": "eed00782a3fb8b919461cae57ccfcdf6c401691f72eededc9a06ff37b226af9d"
+  },
+  "使用的文件\\ChatGPT_front_4K.jpg": {
+    "bytes": 2127976,
+    "sha256": "410b5963c8c3048498657714ee8c26d47c8c989363178669f1b4017aa94cc48e"
+  },
+  "使用的文件\\ChatGPT_front_AI原生.png": {
+    "bytes": 1927274,
+    "sha256": "8361acf1c8e8a130819dbc5ace9f1746e1e4415c38ad976b12b979701ee237c7"
+  },
+  "使用的文件\\Ive_got_you_金属文字.svg": {
+    "bytes": 4076,
+    "sha256": "a1640cc763408ea8049ec7d769af6eb69209e05c25c230a3d8aefd4b9a1b508b"
+  },
+  "使用的文件\\图像分辨率说明.json": {
+    "bytes": 810,
+    "sha256": "e7de2efdcc949588c28575feddf5ec8f195250575e337ddb2e730958d613636e"
+  },
+  "使用的文件\\底面主图_完整板面_4K.jpg": {
+    "bytes": 2591911,
+    "sha256": "e397e62fc693dbced37627fa488aed9ad3e6da6f5aad065094e8e54198999088"
+  },
+  "使用的文件\\底面原工程角花_沉金.svg": {
+    "bytes": 191315,
+    "sha256": "ad8afba4d582927dd1524fd25a8402186ca0fecd604162c81915df68487ece69"
+  },
+  "使用的文件\\底面精灵星光_沉金.svg": {
+    "bytes": 430,
+    "sha256": "f8c57d67727964efab6875896d2613262e9dfcc789bffd75db2c846d22dcb980"
+  },
+  "使用的文件\\重绘提示词.md": {
+    "bytes": 2319,
+    "sha256": "9ef27809c3e8eef7405efb90f48e5bd25644fd3cafdf6996d183f6d9dccb1ad2"
+  },
+  "使用的文件\\顶面Q版_板面坐标_4K.png": {
+    "bytes": 14761097,
+    "sha256": "2d24d9e2c075e9604e67116aaaeabb673c22a5ddb63cbac805eddf7a3ffa199d"
+  },
+  "使用的文件\\顶面主图_板面坐标_4K.jpg": {
+    "bytes": 2219757,
+    "sha256": "2eec792333fbdc067cc1bc4451489cd20872ca30d478c14097db27f9ed5d9424"
+  },
+  "使用的文件\\顶面光晕_断续沉金高光.svg": {
+    "bytes": 13142,
+    "sha256": "78438f9dd487d2a58faee5e9b2479f35feb40bd37052b1405e8fca1b93251481"
+  },
+  "使用的文件\\顶面星光_沉金.svg": {
+    "bytes": 1415,
+    "sha256": "4c710d223dc348e5e7b8e4497786a3a7efe11fc2f1c0273d4bc8938fa2579cb2"
+  },
+  "截图\\3D-小精灵-实机局部.png": {
+    "bytes": 27288,
+    "sha256": "602d6c41dbb49effb65e3f039e37171246a30670106c0cdbee367364cbe9b45d"
+  },
+  "截图\\3D-底面-彩色丝印-实机.png": {
+    "bytes": 952421,
+    "sha256": "5e78f7ec9199c1bae4448dbf7e8dccfc1396b7276a5e31d03d045f28bfc2843b"
+  },
+  "截图\\3D-顶面-彩色丝印-实机.png": {
+    "bytes": 1783271,
+    "sha256": "40bcb10aae02683ed941f060dc0d6fa380f51a17660687a7115ff0b73ddcb57e"
+  },
+  "截图\\back-仅彩印.png": {
+    "bytes": 3893449,
+    "sha256": "9f8984a1abbe332be282d59e20522585898f15e8b750383d2830fb3ba9448132"
+  },
+  "截图\\front-仅彩印.png": {
+    "bytes": 3888188,
+    "sha256": "c136289adaaf86b6e95bed37f830d70606a077f24fb72e4dff7099d8aa4e6727"
+  },
+  "截图\\双面与图层交互预览.html": {
+    "bytes": 22487599,
+    "sha256": "5717a3981e47791a007d3abe0f1c71e2fabee9eec9f4f94776c7caad4bc96952"
+  },
+  "截图\\图层-1-Gerber.png": {
+    "bytes": 355212,
+    "sha256": "9a030ddbb97657f9223ed71c7279e2839bd5382606fef5b3dabc1b12fa78d446"
+  },
+  "截图\\图层-2-Gerber.png": {
+    "bytes": 584394,
+    "sha256": "c357152672670c803efb814293dc037165e8ba70322b1d7e596379bf37264ab0"
+  },
+  "截图\\图层-5-Gerber.png": {
+    "bytes": 93756,
+    "sha256": "59fd96150f39cc68f95f07850f4878ea81af69f4d0182de425bfed4aa42c8573"
+  },
+  "截图\\图层-6-Gerber.png": {
+    "bytes": 488649,
+    "sha256": "4613747226408cb9e25f43662bd0547e5de656e33d6b29a315f7151b5411f2f8"
+  },
+  "截图\\图层-back-实际露铜交集.png": {
+    "bytes": 474923,
+    "sha256": "3bc1ccb3859a12f773c544d81cd0b3fdc9b20854104483e77b488a364f9d1424"
+  },
+  "截图\\图层-front-实际露铜交集.png": {
+    "bytes": 91885,
+    "sha256": "fa2b10071bbc7705633248c729c171fbe7ab161c6106ca768208576b605483d5"
+  },
+  "截图\\编辑器-工程画布.png": {
+    "bytes": 1342782,
+    "sha256": "a38e2a9795fa04443c4c5ed3515615d19f9239f6a1e66ec12e9c3b0a9da75334"
+  },
+  "截图\\预览-交互页面.png": {
+    "bytes": 1046183,
+    "sha256": "90f14dc55620d2a93de2ae298878f7720a1083748c3a5fc95d59e5f7a27b9328"
+  },
+  "截图\\预览-底面-上中身与金属描边.png": {
+    "bytes": 3158543,
+    "sha256": "dcff5373fff890dc752037b29926cc0af774ea75ceea3f45fe4e6fd5c1a7901b"
+  },
+  "截图\\预览-顶面-双图与金属文字.png": {
+    "bytes": 3831751,
+    "sha256": "ed3d0639efe5bbf35e554407e926c8af10054cd5018817ba22592a0c99c1d991"
+  },
+  "使用的文件\\原始参考\\原始参考-Q版龙娘.png": {
+    "bytes": 1741354,
+    "sha256": "7787b108d9c972d06228acf4c41721217ae88489b79dc116e2a78d4f81767204"
+  },
+  "使用的文件\\原始参考\\原始参考-伸手龙娘.png": {
+    "bytes": 8498051,
+    "sha256": "a9abe79a1d8351f726f0d11f08ac365c1bd5627b6efc53bc2e2ce2315747c6fe"
+  },
+  "使用的文件\\原始参考\\原始参考-竖版龙娘.avif": {
+    "bytes": 97486,
+    "sha256": "80fe201a821416f0f3ef50893e564ce0a56cae2eaaebacab52ee00b8a6ae6024"
+  },
+  "sch\\Schematic1\\P1.esch2": {
+    "bytes": 69189,
+    "sha256": "c31837c2b59a5b74c805d2f9dab4b4edf1bb588b667eaa3ad4dc31475043a938"
+  },
+  "sch\\Schematic1\\Schematic1.ecfg": {
+    "bytes": 331,
+    "sha256": "097550d8075b993437c02c5652c9bed76e038b768b157e2a952328228936f19e"
+  },
+  "sch\\Schematic1\\Schematic1.evar": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

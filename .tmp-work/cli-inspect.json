@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "value": {
+    "name": "ChatGPT-PCB-Art",
+    "uuid": "6cddea9bac7f28cd9490af13715fc9646918a36f0489482b75e48ec24ff97910",
+    "pcbUuid": "33880f1c73c1ca6a",
+    "tab": "33880f1c73c1ca6a@6cddea9bac7f28cd9490af13715fc9646918a36f0489482b75e48ec24ff97910",
+    "copperLayers": 2,
+    "vectorImages": [
+      "0532c3665a9d7a8e",
+      "82f29bc5d4670b4a",
+      "fe5f1e8f0cd5c72e",
+      "7a5abc4d1ca2a6ac",
+      "f30003a778be784e",
+      "f877bf7db7c1250d",
+      "d6efe4243343081a"
+    ],
+    "colorObjects": [
+      "f30003a778be784e",
+      "f877bf7db7c1250d",
+      "d6efe4243343081a"
+    ],
+    "pads": [],
+    "vias": []
+  },
+  "logs": [],
+  "durationMs": 8142
+}

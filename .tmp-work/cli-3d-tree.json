@@ -1,0 +1,51 @@
+{
+  "ok": true,
+  "value": {
+    "tree": {
+      "id": "editor-window-main",
+      "tabs": [
+        {
+          "title": "Start Page",
+          "tabId": "tab_page1",
+          "icon": {
+            "iconClassName": "icon-eda-logo"
+          },
+          "tabStyle": {
+            "width": "auto",
+            "minWidth": "76px"
+          },
+          "isAbleDelete": false,
+          "group": "start_blank",
+          "draggable": true,
+          "data": {
+            "doctype": -1
+          },
+          "isDisplayNone": false
+        },
+        {
+          "tabId": "33880f1c73c1ca6a@6cddea9bac7f28cd9490af13715fc9646918a36f0489482b75e48ec24ff97910",
+          "title": "PCB1",
+          "icon": {
+            "iconClassName": "icon-eda-pcb icon-color-green"
+          },
+          "draggable": true,
+          "isAbleDelete": true,
+          "notUseI18n": true,
+          "data": {
+            "doctype": 3,
+            "ticket": 158,
+            "updateTime": 1792681072467,
+            "isProjectLib": false,
+            "real-title": "PCB1",
+            "pid": "6cddea9bac7f28cd9490af13715fc9646918a36f0489482b75e48ec24ff97910",
+            "isPartition": false,
+            "owner": "802ca6732dbb4e16b5f6a38cdcdbde60",
+            "_extApiOpenEventPublished": true
+          }
+        }
+      ]
+    }
+  },
+  "logs": [],
+  "durationMs": 1
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "label": "Q版龙娘",
+    "file": "ChatGPT_chibi_4K.png",
+    "sourcePixels": [
+      1254,
+      1254
+    ],
+    "productionPixels": [
+      4096,
+      4096
+    ],
+    "method": "AI重绘后以Lanczos3重采样导出4096px长边；不标称原生4K"
+  },
+  {
+    "label": "顶面右侧主图",
+    "file": "ChatGPT_front_4K.jpg",
+    "sourcePixels": [
+      1672,
+      941
+    ],
+    "productionPixels": [
+      4096,
+      2305
+    ],
+    "method": "AI重绘后以Lanczos3重采样导出4096px长边；不标称原生4K"
+  },
+  {
+    "label": "底面上中身",
+    "file": "ChatGPT_back_4K.jpg",
+    "sourcePixels": [
+      972,
+      1619
+    ],
+    "productionPixels": [
+      2459,
+      4096
+    ],
+    "method": "AI重绘后以Lanczos3重采样导出4096px长边；不标称原生4K"
+  }
+]

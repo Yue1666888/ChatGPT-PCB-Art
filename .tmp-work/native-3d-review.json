@@ -1,0 +1,21 @@
+{
+  "nativePreviewTabActivatedByCLI": true,
+  "nativeClientColorSilkEnabledInCurrentSession": true,
+  "verifiedFaces": [
+    "top",
+    "bottom"
+  ],
+  "geometryChangedInThisCheck": true,
+  "revisionFeatures": [
+    "11 broken ENIG halo ribbons following color glow",
+    "9 top ENIG stars",
+    "original mirrored back corner flourishes",
+    "36mm chibi cropped by rounded outline",
+    "spirit outline and partial motion trails ENIG, blue eyes kept, 2 glints"
+  ],
+  "persistentAcrossRestartVerified": false,
+  "evidence": [
+    "截图/3D-顶面-彩色丝印-实机.png",
+    "截图/3D-底面-彩色丝印-实机.png"
+  ]
+}

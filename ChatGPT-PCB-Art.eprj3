@@ -1,0 +1,96 @@
+{
+  "name": "ChatGPT-PCB-Art",
+  "owner_uuid": "802ca6732dbb4e16b5f6a38cdcdbde60",
+  "creator_uuid": "802ca6732dbb4e16b5f6a38cdcdbde60",
+  "created_at": "2026-10-22 19:45:00",
+  "updated_at": "2026-10-22 23:24:11",
+  "modifier_uuid": "802ca6732dbb4e16b5f6a38cdcdbde60",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "3057ecf814ac6a00",
+  "branch_uuid": "",
+  "pcb_count": 1,
+  "format": "folder",
+  "config": {
+    "defaultSheet": "3057ecf814ac6a00",
+    "settings": {
+      "UNIVERSAL": {
+        "dataType": "UNIVERSAL",
+        "data": {
+          "allowLibRename": true,
+          "defaultNetName": true,
+          "wireMultipleNet": true,
+          "netFlagCrossLayerConnection": true,
+          "netLabelCrossPageConnection": true,
+          "busGenerateNetClass": true,
+          "relevanceDisplayRow": "SINGLE",
+          "relevanceBelongSchPage": "NAME",
+          "relevanceLocation": "ZONE",
+          "multipartCrossLayer": true
+        }
+      }
+    }
+  },
+  "profile": {
+    "boards": {
+      "8b69029abf032014": {
+        "uuid": "8b69029abf032014",
+        "title": "Board1",
+        "zIndex": 1
+      }
+    },
+    "schematics": {
+      "d369b2f2505d99a5": {
+        "uuid": "d369b2f2505d99a5",
+        "name": "Schematic1",
+        "board": "8b69029abf032014",
+        "source": "",
+        "version": "1788607941020",
+        "updateTime": 1788607941020
+      }
+    },
+    "sheets": {
+      "3057ecf814ac6a00": {
+        "uuid": "3057ecf814ac6a00",
+        "title": "P1",
+        "schematic_uuid": "d369b2f2505d99a5",
+        "zIndex": 1,
+        "source": "",
+        "version": "1788607941425",
+        "updateTime": 1788607941425
+      }
+    },
+    "pcbs": {
+      "33880f1c73c1ca6a": {
+        "uuid": "33880f1c73c1ca6a",
+        "title": "PCB1",
+        "board": "8b69029abf032014",
+        "zIndex": null,
+        "parent_uuid": "",
+        "source": "",
+        "version": "1790355981098",
+        "updateTime": 1790355981098
+      }
+    },
+    "panels": {
+      "9d42294189a793c4": {
+        "uuid": "9d42294189a793c4",
+        "title": "Panel1",
+        "zIndex": null
+      }
+    },
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "D:\\Users\\zhangyue\\Desktop\\project\\PCB-Art",
+      "username": "",
+      "nickname": ""
+    }
+  },
+  "description": "ChatGPT dragon-girl art PCB; I've got you; 2-layer FR4, white mask, double-sided colorful silk, ENIG."
+}

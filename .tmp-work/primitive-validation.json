@@ -1,0 +1,23 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [],
+  "records": 2,
+  "checks": [
+    {
+      "id": "0532c3665a9d7a8e",
+      "type": "IMAGE",
+      "valid": true,
+      "groupIdSemantic": true
+    },
+    {
+      "id": "82f29bc5d4670b4a",
+      "type": "IMAGE",
+      "valid": true,
+      "groupIdSemantic": true
+    }
+  ],
+  "notes": [
+    "groupId=0 follows official primitive documentation and real editor records; schema projection used empty string solely to accommodate documented upstream schema type drift."
+  ]
+}
