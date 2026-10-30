@@ -1,0 +1,18 @@
+# Local build scripts, debug state, caches and intermediate renderings.
+/.tmp-work/
+/.tmp/
+/.cache/
+**/node_modules/
+**/__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+*~
+
+# Desktop/editor metadata.
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
